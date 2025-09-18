@@ -8,4 +8,4 @@ Homework1
 
 https://youtu.be/jf5ersxdSrg
 
-[![Video]()](https://youtu.be/jf5ersxdSrg)
+[![Video](http://img.youtube.com/vi/jf5ersxdSrg/0.jpg)](https://youtu.be/jf5ersxdSrg)
