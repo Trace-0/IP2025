@@ -6,6 +6,6 @@ Homework1
 <img src="./homework1.png" width="100%" height="100%" title="Homework1" alt="Homework1"></img>
 
 
-https://youtu.be/
+https://youtu.be/jf5ersxdSrg
 
-[![Video]()]()
+[![Video]()](https://youtu.be/jf5ersxdSrg)
