@@ -15,3 +15,4 @@ https://youtu.be/jf5ersxdSrg
 
 ## Homework3
 
+<img src="./homework3.png" width="100%" height="100%" title="Homework3"></img>
