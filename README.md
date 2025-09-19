@@ -9,7 +9,9 @@ https://youtu.be/jf5ersxdSrg
 
 ## Homework2
 
+https://youtu.be/rJ1U912E4ik
 
+[![Video](http://img.youtube.com/vi/rJ1U912E4ik/0.jpg)](https://youtu.be/rJ1U912E4ik)
 
 ## Homework3
 
