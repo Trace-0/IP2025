@@ -19,7 +19,7 @@ https://youtu.be/rJ1U912E4ik
 
 ## Homework4
 
-
+<img src="./homework4.png" width="100%" height="100%" title="Homework4"></img>
 
 ## Homework5
 
